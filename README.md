@@ -36,4 +36,7 @@ Dataset used : https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blo
 - Expand product offerings in Kurta sets.
 - Improve product details to reduce returns and cancellations.
 
-## Project Structure
+## DASHBOARD
+
+![Excel Dashboard ](https://github.com/user-attachments/assets/e3cc972d-2955-4eed-9101-1574a8103e7b)
+
