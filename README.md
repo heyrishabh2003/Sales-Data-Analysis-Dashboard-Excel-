@@ -17,7 +17,6 @@ Dataset used : https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blo
 - Monthly sales and orders comparison using charts.
 - Customer demographics analysis by gender and age.
 - Order status breakdown with percentages.
-- Regional sales performance.
 - Sales channel contribution analysis.
 - Top-selling product category identification.
 - Interactive dashboard created using Excel.
