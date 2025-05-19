@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes the 2024 sales data of Irish Store, which sells products through multiple channels. The goal is to understand customer behavior, sales trends, and performance across regions and channels to provide actionable insights that help boost business growth.
 
+Dataset used : https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
+
 ## Key Insights
 - **March** had the highest sales and orders.
 - Women, especially adult females, contributed about **64%** of purchases.
